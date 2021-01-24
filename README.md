@@ -54,3 +54,17 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
 
  
 
+### Conclusion 
+
+Conclusions
+Based on your time series analysis, would you buy the yen now?
+
+Based on the analysis, Yes I would buy the yen currency, because over the period anaylized the settle price of the currerncy looks volatile. ALso the currency trend at the end of the period is an upward  trend.
+
+Is the risk of the yen expected to increase or decrease?
+
+ Yes, the risk of yen is ecpected to increase because  it's very volatilety  
+
+Based on the model evaluation, would you feel confident in using these models for trading?
+
+Based on the models I wouldn't use them for trading purposes because the p-vlaue's are greater then .05  which  questions the relibility of the model. Hence,  I would try to look for additionl features that impacts a heavier wieght in the model output. 
