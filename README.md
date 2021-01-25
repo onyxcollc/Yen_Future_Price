@@ -75,7 +75,7 @@ It's possible that the out of sample data provides a better (rsme) if we balance
  
  ### Trend
  
- 
+ <img src="Prediction_Results.PNG"/>
  <img src="Results/Settle_Trend.PNG"/>
  
  
