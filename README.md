@@ -52,6 +52,47 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
 * Out-of-sample data is data that the model hasn't seen before (Testing data).
 * In-sample data is data that the model was trained on (Training data).
 
+ ---
+  
+ ## Regression Analysis
+ 
+ 
+ 
+ 
+ 
+ 
+ ---
+ 
+ ## Time Series Analysis
+ 
+ ### Trend
+ 
+ 
+ <img src="Results/Settle_Trend.PNG"/>
+ 
+ 
+ ---
+ 
+ 
+ ### ARMA 
+ 
+ <img src="Results/ARMA_MODEL.PNG"/>
+
+ 
+ ---
+ 
+ 
+ ### ARIMA
+ 
+ <img src="Results/ARIMA_MODEL.PNG"/>
+
+ 
+ 
+ ---
+ 
+ ### GARCH Model
+ 
+ <img src="Results/GARCH_MODEL.PNG"/>
  
 
 ### Conclusion 
