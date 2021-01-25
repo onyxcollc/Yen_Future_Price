@@ -52,6 +52,57 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
 * Out-of-sample data is data that the model hasn't seen before (Testing data).
 * In-sample data is data that the model was trained on (Training data).
 
+ ---
+  
+ ## Regression Analysis
+ 
+ 
+ 
+ ### RMSE
+ 
+<img src="Results/Results_Typed.PNG"/>
+
+
+
+Conclusion
+Out of sample rmse is .41 , In sample rmse is .59 . Because of these two results it is rare that the mean squared error of our test data resulted higher then the training data. The possible reason that this can happen is if we're using an under fitted predicted data set.
+
+It's possible that the out of sample data provides a better (rsme) if we balance the data set used for the prediction. However, if it does not balance the data used to train the model becomes questionable.
+
+ 
+ ---
+ 
+ 
+ ## Time Series Analysis
+ 
+ ### Trend
+ 
+ 
+ <img src="Results/Settle_Trend.PNG"/>
+ 
+ 
+ ---
+ 
+ 
+ ### ARMA Model
+ 
+ <img src="Results/ARMA_MODEL.PNG"/>
+
+ 
+ ---
+ 
+ 
+ ### ARIMA Model
+ 
+ <img src="Results/ARIMA_MODEL.PNG"/>
+
+ 
+ 
+ ---
+ 
+ ### GARCH Model
+ 
+ <img src="Results/GARCH_MODEL.PNG"/>
  
 
 ### Conclusion 
