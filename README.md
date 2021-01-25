@@ -55,10 +55,6 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
  ---
   
  ## Regression Analysis
- 
- 
- 
- <img src="Prediction_Results.PNG"/>
 
 
 
@@ -75,7 +71,7 @@ It's possible that the out of sample data provides a better (rsme) if we balance
  
  ### Trend
  
- <img src="Prediction_Results.PNG"/>
+ 
  <img src="Results/Settle_Trend.PNG"/>
  
  
