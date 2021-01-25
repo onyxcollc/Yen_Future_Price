@@ -58,10 +58,13 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
  
  
  
+ ### RMSE
  
+ <img src="Results/ Results_Typed.PNG"/>
+
  
+ --
  
- ---
  
  ## Time Series Analysis
  
@@ -74,7 +77,7 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
  ---
  
  
- ### ARMA 
+ ### ARMA Model
  
  <img src="Results/ARMA_MODEL.PNG"/>
 
@@ -82,7 +85,7 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
  ---
  
  
- ### ARIMA
+ ### ARIMA Model
  
  <img src="Results/ARIMA_MODEL.PNG"/>
 
