@@ -60,7 +60,7 @@ Build a Scikit-Learn linear regression model to predict Yen futures ("settle") r
  
  ### RMSE
  
-<img src="Results/Results_Typed.PNG"/>
+<img src="Prediction_Results.PNG"/>
 
 
 
